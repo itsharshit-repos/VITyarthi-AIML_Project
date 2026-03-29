@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Model checkpoints and serialized files
+*.pkl
+*.joblib
+*.h5
+
+# Data files (Optional: keep if you want the CSV in the repo)
+# house_dataset.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+.vscode/
+.idea/
